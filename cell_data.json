@@ -1,0 +1,10 @@
+{
+  "list": [
+    { "type": "Myeloid Progenitors", "count": 1200 },
+    { "type": "Monocytes ", "count": 6422 },
+    { "type": "NK cells ", "count": 801 },
+    { "type": "Naive CD8 T", "count": 2888 },
+    { "type": "Memory CD8 T", "count": 3423 },
+    { "type": "Erythrocytes", "count": 20}
+  ]
+}
